@@ -17,6 +17,10 @@ public class EmployeeDetails { // block or body of class
 		System.out.println("Employee mobile: 8939278836");
 	}
 	
+	private void empLocation() {
+		System.out.println("Employee location: chennai");
+	}
+	
 	public static void main(String[] args) {
 		
 		// ClassName objName/refName = new ClassName
